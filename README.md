@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/TheAlgorithms/Java
+2. Gráfico selecionado: <img width="975" height="487" alt="download (1)" src="https://github.com/user-attachments/assets/6f7de7e8-8672-4174-819b-18cb782c2d41" />
+3. Explicação: O gráfico mostra a evolução da quantidade de arquivos de implementação e de testes ao longo do tempo, mais precisamente entre 2020 e 2025. A quantidade de arquivos com código de algoritmos em 2020 já é quase 200 e continua crescendo até 2025, o que mostra que o repositório cresceu ao longo do tempo. No entanto, a quantidade de arquivos de testes é 0 até 2022 e somente a partir deste ano testes começaram a ser criados, chegando à quase a mesma quantidade dos arquivos de implementação dos algoritmos. Por conta da natureza do repositório, que não é um sistema completo mas sim um lugar onde é possível encontrar algoritmos úteis com implementações em diferentes linguagens, talvez incialmente não havia a preocupação em realizar testes nos códigos. Porém, é possível ver que a mentalidade mudou a partir de 2022 e a quantidade de testes cresceu abruptamente. Idealmente, por mais simples que o código seja, é uma boa prática ter testes que permitam verificar se o código se comporta da maneira esperada. Dessa forma, essa mudança é importante e permite que seja mais fácil encontrar erros, verificar se mudanças feitas causaram problemas, entre outras coisas. Inicialmente o repositório não tinha testes, mas em 2025 há um alinhamento maior com as boas práticas no que diz respeito aos testes de software.
 
 
 
